@@ -27,4 +27,4 @@ In order to get the languages work you will need to change PojavLauncher languag
 Passed the requirements ? Nice! (I hope you don't mind the jokes)
 
 # Installation
-bruh
+* Building is moved into [BUILDING.MD](/BUILDING.MD)
