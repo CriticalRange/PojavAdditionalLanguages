@@ -27,4 +27,4 @@ In order to get the languages work you will need to change PojavLauncher languag
 Passed the requirements ? Nice! (I hope you don't mind the jokes)
 
 # Installation
-* I'll be working on this soon cuz image picker seems to be bugged (also waiting for the new update of Pojav gplay)
+bruh
