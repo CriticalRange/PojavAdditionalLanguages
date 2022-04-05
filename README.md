@@ -17,7 +17,7 @@ In order to get the languages work you will need to change PojavLauncher languag
 ## Cons:
 * It will take some time
 * You will be replacing the language you are using pojav with (it is auto chosen from your device language) with the language you want to install.
-**NOTE: This action does not change your device language with any of the languages you install from here!**
+**NOTE: This action does not change your device language** with any of the languages you install from here!
 
 ## Requirements:
 * 2 eyes (for reading)
