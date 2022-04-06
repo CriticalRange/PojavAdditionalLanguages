@@ -28,3 +28,7 @@ Passed the requirements ? Nice! (I hope you don't mind the jokes)
 
 # Installation
 * Building is moved into [BUILDING.MD](/BUILDING.MD)
+
+# Removing languages
+
+There is no way to remove languages other than **deleting the launcher** for now
