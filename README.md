@@ -5,7 +5,7 @@ In order to get the languages work you will need to change PojavLauncher languag
 ### What is PojavLauncher? you might ask
 * PojavLauncher is an Android app aimed to bring Minecraft: Java Edition to your Android devices.
 
-* It is made by [artdeell](https://github.com/artdeell), [DuyKhanhTran](https://github.com/khanhduytran0), [LegacyGamerHD](https://github.com/LegacyGamerHD)(retired from project), [crystall1nedev](https://github.com/crystall1nedev)(iOS) and many more contributors!
+* It is made by [artdeell](https://github.com/artdeell), [DuyKhanhTran](https://github.com/khanhduytran0), [SerpentSpirale (AKA Mathias Boulay)](https://github.com/Mathias-Boulay), [LegacyGamerHD](https://github.com/LegacyGamerHD)(retired from project), [crystall1nedev](https://github.com/crystall1nedev)(iOS) and many more contributors!
 
 * You can check the project [here](https://github.com/PojavLauncherTeam/PojavLauncher)
 
